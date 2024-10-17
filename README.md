@@ -87,4 +87,4 @@
 
     Получить список категорий:
     
-    ```GET /categories/```
+    GET /categories/
